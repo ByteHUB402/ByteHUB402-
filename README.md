@@ -289,7 +289,7 @@ This project is proprietary software. All rights reserved.
 
 For support, feature requests, or general inquiries:
 
-- **Twitter/X**: [@neuraseek](#)
+- **Twitter/X**: [@ByteHub402](#)
 
 ---
 
