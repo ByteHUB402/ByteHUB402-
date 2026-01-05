@@ -1,7 +1,7 @@
 # 🚀 ByteHUB402
 
 <div align="center">
-  <img src="./public/neuraseek.png" alt="NeuraSeek Logo" width="200"/>
+  <img src="./public/neuraseek.ng" alt="ByteHUB402" width="200"/>
   
   **ByteHub402 is the next evolution of the Solana ecosystem, bridging the gap between high-performance asset streaming and institutional-grade privacy.**
   
@@ -134,7 +134,7 @@ Make sure you have the following installed:
    ```
 
 4. **Open your browser**
-   Navigate to [https://app.neuraseek.xyz](https://app.neuraseek.xyz)
+   Navigate to [https://app.bytehub402.xyz](https://bytehub402.xyz)
 
 ### Build for Production
 
@@ -254,7 +254,7 @@ The project uses a custom Tailwind configuration with:
 
 ## 🤝 Contributing
 
-We welcome contributions to improve NeuraSeek! Here's how you can help:
+We welcome contributions to improve ByteHUB402! Here's how you can help:
 
 1. **Fork the repository**
 2. **Create a feature branch**
@@ -289,7 +289,7 @@ This project is proprietary software. All rights reserved.
 
 For support, feature requests, or general inquiries:
 
-- **Twitter/X**: [@neuraseek](https://x.com/neuraseek)
+- **Twitter/X**: [@neuraseek](#)
 
 ---
 
@@ -317,11 +317,11 @@ For support, feature requests, or general inquiries:
 <div align="center">
   <h3>🚀 Ready to revolutionize your crypto trading experience?</h3>
   
-  **[Get Started Now](https://app.neuraseek.xyz)** | **[View Live Demo](https://app.neuraseek.xyz)** | **[Follow us on X](https://x.com/neuraseek)**
+  **[Get Started Now](https://app.bytehub402.xyz)** | **[View Live Demo](https://app.bytehub4-2.xyz)** | **[Follow us on X](https://x.cok)**
   
   ---
   
-  Made with ❤️ by the NeuraSeek Team
+  Made with ❤️ by the Bytehub402 Team
   
   *Powered by Advanced AI Technology*
 </div>
